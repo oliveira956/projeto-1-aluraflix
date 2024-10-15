@@ -7,3 +7,7 @@ body {
     header {
         border-bottom: solid 1px darkgoldenrod;
     }
+
+    section{
+        background: rgb(255, 255, 255, .3)
+    }
