@@ -2,6 +2,12 @@ body {
     background: black; 
      color: antiquewhite;
      margin: 0px;
+     .prociono-regular {
+        font-family: "Prociono", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
     }
     
     header {
