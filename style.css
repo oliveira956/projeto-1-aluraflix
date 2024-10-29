@@ -2,18 +2,21 @@ body {
     background: black; 
      color: antiquewhite;
      margin: 0px;
-     .prociono-regular {
-        font-family: "Prociono", serif;
-        font-weight: 400;
-        font-style: normal;
+     
       }
-      
-    }
     
-    header {
+    header 
+    body{
         border-bottom: solid 1px darkgoldenrod;
     }
 
     section{
         background: rgb(255, 255, 255, .3)
+    }
+   h1 {
+       font-size: 40px;
+    }
+   
+   p {
+     font-size: 20px;
     }
